@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atoms</string>
+    <string name="app_tagline">Spatial soundscapes</string>
+
+    <string name="shortcut_new_short">New space</string>
+    <string name="shortcut_new_long">Build a new soundscape</string>
+    <string name="shortcut_resume_short">Resume</string>
+    <string name="shortcut_resume_long">Resume your last soundscape</string>
+
+    <string name="notification_channel_playback">Soundscape playback</string>
+    <string name="notification_channel_playback_description">Keeps your space alive in the background.</string>
+</resources>
